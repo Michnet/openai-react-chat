@@ -1,3 +1,6 @@
+:root{
+  --contentHeight: calc(100vh - 200px);
+}
 
 .expand-button {
   width: 64px; /* Adjust to match the button's width */
@@ -15,7 +18,7 @@
   /*min-width:0;*/
   display: flex;
   flex-direction: row;
-  height: 100vh;
+  /* height: 100vh; */
   overflow-y: auto;
   overflow-x: hidden;
 }

@@ -31,5 +31,6 @@ export const TEXT_MIME_TYPES = [
   'text/javascript',
   'text/xml',
   'application/json',
+  'application/pdf',
   'text/markdown'
 ];
